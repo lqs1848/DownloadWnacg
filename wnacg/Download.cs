@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ICSharpCode.SharpZipLib.Zip;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -172,8 +173,21 @@ namespace wnacg
                 }
                 stream.Close();
                 responseStream.Close();
-                
-                
+
+                _syncContext.Post(DlTaskSchedule, key + "|检查完整性");
+
+                //校验Zip文件
+                ZipEntry zipEntry = null;
+                using (ZipInputStream zipStream = new ZipInputStream(File.OpenRead(path + fileName + ".temp.wnacg")))
+                {
+                    while ((zipEntry = zipStream.GetNextEntry()) != null)
+                    {
+                        //空遍历一遍
+                        string zipChildName = Path.GetFileName(zipEntry.Name);
+                        _syncContext.Post(DlTaskSchedule, key + "|遍历内容:"+ zipChildName);
+                    }
+                }
+
                 _syncContext.Post(DlTaskSchedule, key + "|重命名中");
                 File.Move(path + fileName + ".temp.wnacg", path + fileName);
                 _syncContext.Post(DlTaskSchedule, key + "|完成");
