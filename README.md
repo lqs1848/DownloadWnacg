@@ -1,9 +1,26 @@
+Update:<br>
+2018/11/01<br>
+![image](https://github.com/lqs1848/DownloadWnacg/blob/master/info/change.jpg)<br>
+可以自己填写wnacg的网址 不填写默认使用 https://wnacg.net （可填写 http://d3.wnacg.download 这个偶尔不挂代理也能上 或者 https://www.wnacg.org ）<br>
+可以设置代理 如果用SS就填写 127.0.0.1:1080  不填默认不挂代理<br>
+可以设置 多线程下载（每一个线程执行一个任务 下一本本子）
+
+
+
+
 C# 下载wnacg的本子 自动解析列表页面 添加下载任务
 
-使用前请确认自己的网络是否能访问 https://www.wnacg.org<br>
+使用前请确认自己的网络是否能访问 <br>
+https://wnacg.net<br> 
+https://www.wnacg.org<br>
+http://d3.wnacg.download<br>
+哪个能用填哪个 http 和 https 可以都试一下
+
+
 >这个网站时不时会抽风 偶尔会被墙 偶尔又不会被墙<br>
 >可以多试几次<br>
 >实在不行就扶梯吧<br>
+>这个网站有好多域名 如果有其他域名可以分享一下 有些没有被墙<br>
 
 使用时尽量选择比较空闲的时间段（白天）<br>
 怕把别人网站爬挂了<br>
@@ -57,15 +74,3 @@ downloadUrl_jpg.txt  中是封面信息<br>
 ----------------------------------- 
 >有部分任务本身就是死链（可以尝试将下载地址用浏览器打开 来判断是否死链）<br>
 >实在想看 可以用名称搜索 会有不同汉化组的资源（或者去搜种子）<br>
-
-
-
-Update:<br>
-2018/11/1<br>
-![image](https://github.com/lqs1848/DownloadWnacg/blob/master/info/change.jpg)<br>
-可以自己填写wnacg的网址 不填写默认使用 https://wnacg.net （可填写 http://d3.wnacg.download 这个偶尔不挂代理也能上 或者 https://www.wnacg.org ）<br>
-可以设置代理 如果用SS就填写 127.0.0.1:1080  不填默认不挂代理<br>
-可以设置 多线程下载（每一个线程执行一个任务 下一本本子）
-
-
-
