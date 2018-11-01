@@ -19,7 +19,7 @@ C# 下载wnacg的本子 自动解析列表页面 添加下载任务
 
 
 下载地址：<br>
-https://github.com/lqs1848/DownloadWnacg/releases/download/1.01/wnacg.zip<br>
+https://github.com/lqs1848/DownloadWnacg/releases/latest<br>
 解压后启动即可<br>
 
 
