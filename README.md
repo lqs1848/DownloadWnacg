@@ -57,3 +57,15 @@ downloadUrl_jpg.txt  中是封面信息<br>
 ----------------------------------- 
 >有部分任务本身就是死链（可以尝试将下载地址用浏览器打开 来判断是否死链）<br>
 >实在想看 可以用名称搜索 会有不同汉化组的资源（或者去搜种子）<br>
+
+
+
+Update:
+2018/11/1
+![image](https://github.com/lqs1848/DownloadWnacg/blob/master/info/change.jpg)
+可以自己填写wnacg的网址 不填写默认使用 https://wnacg.net （可填写 http://d3.wnacg.download 这个偶尔不挂代理也能上 或者 https://www.wnacg.org ）
+可以设置代理 如果用SS就填写 127.0.0.1:1080  不填默认不挂代理
+可以设置 多线程下载（每一个线程执行一个任务 下一本本子）
+
+
+
