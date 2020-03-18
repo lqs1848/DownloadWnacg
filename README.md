@@ -1,4 +1,13 @@
 Update:<br>
+2020/03/18<br>
+很多Zip无法下载 修改下载方式
+https://github.com/lqs1848/DownloadWnacgByPhoto
+修改为下载单独的图片 下载完成后自动压缩为Zip 与当前的下载没有区别
+多出了导出 解析结果的按钮
+可以随时关掉 下次使用 单击导入 便可继续上次的下载任务
+
+
+Update:<br>
 2018/11/01<br>
 ![image](https://github.com/lqs1848/DownloadWnacg/blob/master/info/change.jpg)<br>
 可以自己填写wnacg的网址 不填写默认使用 https://wnacg.net （可填写 http://d3.wnacg.download 这个偶尔不挂代理也能上 或者 https://www.wnacg.org ）<br>
