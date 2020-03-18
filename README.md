@@ -7,6 +7,8 @@ https://github.com/lqs1848/DownloadWnacgByPhoto<br>
 多出了导出 解析结果的按钮<br>
 可以随时关掉 下次使用 单击导入 便可继续上次的下载任务<br>
 修改默认地址为 https://www.wnacg.wtf
+下载地址：https://github.com/lqs1848/DownloadWnacgByPhoto/releases/download/1.03/wnacg.zip
+
 
 
 Update:<br>
