@@ -1,5 +1,6 @@
 Update:<br>
 2020/03/18<br>
+![image](https://github.com/lqs1848/DownloadWnacgByPhoto/blob/master/info/main.png)<br>
 很多Zip无法下载 修改下载方式
 https://github.com/lqs1848/DownloadWnacgByPhoto
 修改为下载单独的图片 下载完成后自动压缩为Zip 与当前的下载没有区别
