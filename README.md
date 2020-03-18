@@ -2,15 +2,17 @@ Update:<br>
 2020/03/18<br>
 ![image](https://github.com/lqs1848/DownloadWnacgByPhoto/blob/master/info/main.png)<br>
 很多Zip无法下载 修改下载方式<br>
-https://github.com/lqs1848/DownloadWnacgByPhoto<br>
+修改后项目地址为：https://github.com/lqs1848/DownloadWnacgByPhoto<br>
 修改为下载单独的图片 下载完成后自动压缩为Zip 与当前的下载没有区别<br>
 多出了导出 解析结果的按钮<br>
 可以随时关掉 下次使用 单击导入 便可继续上次的下载任务<br>
 修改默认地址为 https://www.wnacg.wtf<br>
-下载地址：https://github.com/lqs1848/DownloadWnacgByPhoto/releases/download/1.03/wnacg.zip
-
-
-
+下载地址：https://github.com/lqs1848/DownloadWnacgByPhoto/releases/download/1.03/wnacg.zip<br>
+旧的程序依旧可以正常运行 只是 Wnacg 最新的内容经常没有上传Zip 导致无法下载<br>
+这个修改后的 下载的是图片 只要 Wnacg 不改版面永远都可以使用<br>
+<br>
+<br>
+<br>
 Update:<br>
 2018/11/01<br>
 ![image](https://github.com/lqs1848/DownloadWnacg/blob/master/info/change.jpg)<br>
