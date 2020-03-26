@@ -1,6 +1,6 @@
 Update:<br>
 2020/03/18<br>
-![image](https://github.com/lqs1848/DownloadWnacgByPhoto/blob/master/info/main.png)<br>
+![image](https://github.com/lqs1848/CheckVideo/blob/master/info/1.jpg)<br>
 Wnacg的Zip下载链接 大部分为死链<br>
 修改为下载单独的图片 下载完成后自动压缩为Zip 与当前的下载没有区别<br>
 修改后项目地址为：https://github.com/lqs1848/DownloadWnacgByPhoto<br>
