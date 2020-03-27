@@ -1,4 +1,11 @@
 Update:<br>
+2020/03/27<br>
+![image](https://github.com/lqs1848/DownloadWnacgByPhoto/blob/master/info/2.jpg)<br>
+解析时自动保存解析的结果<br>
+https://github.com/lqs1848/DownloadWnacgByPhoto/releases/download/1.04/default.zip<br>
+<br>
+<br>
+Update:<br>
 2020/03/18<br>
 ![image](https://github.com/lqs1848/DownloadWnacgByPhoto/blob/master/info/main.png)<br>
 Wnacg的Zip下载链接 大部分为死链<br>
