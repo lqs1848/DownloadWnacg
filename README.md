@@ -2,6 +2,7 @@ Update:<br>
 2020/03/27<br>
 ![image](https://github.com/lqs1848/DownloadWnacgByPhoto/blob/master/info/2.jpg)<br>
 解析时自动保存解析的结果<br>
+再次打开程序点击导入 可以继续未完成的下载任务<br>
 https://github.com/lqs1848/DownloadWnacgByPhoto/releases/download/1.04/default.zip<br>
 <br>
 <br>
