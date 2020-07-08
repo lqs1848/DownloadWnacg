@@ -1,4 +1,10 @@
 Update:<br>
+2020/07/08<br>
+修改正则 大概4月13号之后 wnacg修改了css 就不能用 一直没关注 现在能用了
+https://github.com/lqs1848/DownloadWnacgByPhoto/releases/latest<br>
+<br>
+<br>
+Update:<br>
 2020/03/27<br>
 ![image](https://github.com/lqs1848/DownloadWnacgByPhoto/blob/master/info/2.jpg)<br>
 解析时自动保存解析的结果<br>
