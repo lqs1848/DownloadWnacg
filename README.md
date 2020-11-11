@@ -1,6 +1,9 @@
 下载地址:<br>
 https://github.com/lqs1848/DownloadWnacgByPhoto/releases/latest<br>
-
+有问题不能运行的话 很有可能是网站改页面结构了 时不时会更新程序的<br>
+不能解析 就多切换几个地址试试<br>
+<br>
+<br>
 Update:<br>
 2020/11/11<br>
 修改正则 网站的 封面图加了延迟加载 <br>
