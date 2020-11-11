@@ -3,12 +3,12 @@ https://github.com/lqs1848/DownloadWnacgByPhoto/releases/latest<br>
 
 Update:<br>
 2020/11/11<br>
-修改正则 网站的 封面图加了延迟加载 
+修改正则 网站的 封面图加了延迟加载 <br>
 
-data目录下有脏数据的
-可以把/data目录下的文件打开看一下
-按日期区分 把.wnacgdb 文件以txt方式打开 第2行是 loading.jpg 的删掉即可
-或者 data全删了 重新解析就行
+data目录下有脏数据的<br>
+可以把/data目录下的文件打开看一下<br>
+按日期区分 把.wnacgdb 文件以txt方式打开 第2行是 loading.jpg 的删掉即可<br>
+或者 data全删了 重新解析就行<br>
 <br>
 <br>
 Update:<br>
