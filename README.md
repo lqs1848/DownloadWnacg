@@ -5,6 +5,11 @@ https://github.com/lqs1848/DownloadWnacgByPhoto/releases/latest<br>
 <br>
 <br>
 Update:<br>
+2021/02/09<br>
+修复正则失效 <br>
+<br>
+
+Update:<br>
 2020/11/11<br>
 修改正则 网站的 封面图加了延迟加载 <br>
 
