@@ -6,6 +6,13 @@ https://github.com/lqs1848/DownloadWnacgByPhoto/releases/latest<br>
 
 <br>
 Update:<br>
+2022/01/05<br>
+添加韩漫 修复代理为空时也会使用代理的BUG <br>
+代理和网站网址可以自己编辑 data.ini <br>
+<br>
+
+<br>
+Update:<br>
 2021/07/15<br>
 修复设置代理时 只有解析使用了代理 下载没有使用代理的BUG <br>
 <br>
