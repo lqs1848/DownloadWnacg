@@ -4,6 +4,14 @@ https://github.com/lqs1848/DownloadWnacgByPhoto/releases/latest<br>
 不能解析 就多切换几个地址试试<br>
 <br>
 
+
+<br>
+Update:<br>
+2022/04/13<br>
+优化图片完整性判断 <br>
+<br>
+
+
 <br>
 Update:<br>
 2022/01/05<br>
